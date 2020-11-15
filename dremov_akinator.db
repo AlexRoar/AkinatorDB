@@ -1,0 +1,52 @@
+"is alive" [
+    "is phystech" [
+        "is a student" [
+            "ALIVE - IS_PHYSTECH - IS_STUDENT === STUDENTS (BY GROUPS IF YOU ARE NOT LAZY)"
+            "ALIVE - IS_PHYSTECH - NOT_IS_STUDENT === PROFESSOR"
+        ]
+        "NOT A PHYSTECH BUT ALIVE AND LIVES IN PHYSTECH"
+    ]
+    "is a building" [
+        "is a dormitory" [
+            "is inhabited by a cat" [
+                "is visited by Ded" [
+                    "1ka"
+                    "6ka"
+                ]
+                "NOT_IS_ALIVE - IS_A_BUILDING - IS_A_DORMITORY - NOT_IS_INHABITED_BY_A_CAT === OTHER DORMITORIES"
+            ]
+            "something unknown happens here" [
+                "biologists work here" [
+                    "Phystech.BIO"
+                    "RTshniki study here" [
+                        "Microelectronics Building"
+                        "Digit"
+                    ]
+                ]
+                "library is here" [
+                    "the main building"
+                    "you can eat here" [
+                        "suicide" [
+                            "KPM"
+                            "KSP"
+                        ]
+                        "is one of the oldes buildings" [
+                            "Laboratory Building"
+                            "you speak EaNgLiSh" [
+                                "Phystech.Kvant"
+                                "is physician here" [
+                                    "Hospital"
+                                    "Arctic"
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+        "is a sport court" [
+            "=== SPORT_COURTS (VOLLEYBALL, FOOTBALL, ETC.)"
+            "=== SUBJECTS (MATAN, ETC.)"
+        ]
+    ]
+]
