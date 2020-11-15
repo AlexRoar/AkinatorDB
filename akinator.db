@@ -9,7 +9,37 @@
             "ALIVE - IS_PHYSTECH - NOT_IS_STUDENT === PROFESSOR"
         ]
 
-        "NOT A PHYSTECH BUT ALIVE AND LIVES IN PHYSTECH"
+        "is selling you something"
+        [
+            "does say 'thank you' after every purchase"
+            [
+                "Alisher"
+
+                "Canteen saleswoman"
+            ]
+
+            "does look for you in the shower"
+            [
+                "Tetya Zoya"
+
+                "does want to steal your food"
+                [
+                    "is already fried and eaten"
+                    [
+                        "A rat"
+
+                        "A cockroach"
+                    ]
+
+                    "is the most known livving creature in MIPT"
+                    [
+                        "Poltorashka"
+
+                        "Sobaken#443"
+                    ]
+                ]
+            ]
+        ]
     ]
 
     "is a building"
@@ -28,14 +58,84 @@
                 "NOT_IS_ALIVE - IS_A_BUILDING - IS_A_DORMITORY - NOT_IS_INHABITED_BY_A_CAT === OTHER DORMITORIES"
             ]
 
-            "NOT A DORMITORY === KORPUSA, KSP, ETC."
+            "is place of unknown things and events"
+            [
+                "does have some biologists inside"
+                [
+                    "Phystech.BIO"
+
+                    "is occupied by RTshniki"
+                    [
+                        "Microelectronics Building"
+
+                        "Digit"
+                    ]
+                ]
+
+                "does have library inside"
+                [
+                    "the main building"
+
+                    "is mainly known for canteen"
+                    [
+                        "suicide"
+                        [
+                            "KPM"
+
+                            "KSP"
+                        ]
+
+                        "is one of the oldest buildings"
+                        [
+                            "Laboratory Building"
+
+                            "does allow you to sTudI EaNgLiSh"
+                            [
+                                "Phystech.Kvant"
+
+                                "is inhabited by physicians"
+                                [
+                                    "Hospital"
+
+                                    "Arctic"
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
         ]
 
         "is a sport court"
         [
             "=== SPORT_COURTS (VOLLEYBALL, FOOTBALL, ETC.)"
 
-            "=== SUBJECTS (MATAN, ETC.)"
+            "does shock you"
+            [
+                "Mathematical logic course with Evgeniy Dashkov"
+
+                "is associated with night-time debugging"
+                [
+                    "does have a chance of grading you with 16"
+                    [
+                        "Introduction to data structures course with Ilya Dedinsky"
+
+                        "Introduction to programming course with Sergey Babichev"
+                    ]
+
+                    "is fascinating to listen"
+                    [
+                        "Mathematical Analysis course with Vadim Redkozubov"
+
+                        "is dirty"
+                        [
+                            "seedbed"
+
+                            "Analytical geometry course with Anna Petrovich"
+                        ]
+                    ]
+                ]
+            ]
         ]
     ]
 ]
