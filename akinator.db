@@ -1,4 +1,28 @@
-"is none" [
-    "none"
-    "something"
+"is alive" [
+    "is phystech" [
+        "is a student" [
+            "student"
+            "loves cats" [
+                "Dedinskiy"
+                "professor"
+            ]
+        ]
+        "human"
+    ]
+    "is a building" [
+        "is a dormitory" [
+            "is cats live here" [
+                "is visited by Ded" [
+                    "1ka"
+                    "6ka"
+                ]
+                "is FUPM?" [
+                    "7ka"
+                    "2ka"
+                ]
+            ]
+            "Arctic"
+        ]
+        "subject"
+    ]
 ]
