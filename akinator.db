@@ -1,28 +1,41 @@
-"is alive" [
-    "is phystech" [
-        "is a student" [
-            "student"
-            "loves cats" [
-                "Dedinskiy"
-                "professor"
-            ]
+"is alive"
+[
+    "is phystech"
+    [
+        "is a student"
+        [
+            "ALIVE - IS_PHYSTECH - IS_STUDENT === STUDENTS (BY GROUPS IF YOU ARE NOT LAZY)"
+
+            "ALIVE - IS_PHYSTECH - NOT_IS_STUDENT === PROFESSOR"
         ]
-        "human"
+
+        "NOT A PHYSTECH BUT ALIVE AND LIVES IN PHYSTECH"
     ]
-    "is a building" [
-        "is a dormitory" [
-            "is cats live here" [
-                "is visited by Ded" [
+
+    "is a building"
+    [
+        "is a dormitory"
+        [
+            "is inhabited by a cat"
+            [
+                "is visited by Ded"
+                [
                     "1ka"
+
                     "6ka"
                 ]
-                "is FUPM?" [
-                    "7ka"
-                    "2ka"
-                ]
+
+                "NOT_IS_ALIVE - IS_A_BUILDING - IS_A_DORMITORY - NOT_IS_INHABITED_BY_A_CAT === OTHER DORMITORIES"
             ]
-            "Arctic"
+
+            "NOT A DORMITORY === KORPUSA, KSP, ETC."
         ]
-        "subject"
+
+        "is a sport court"
+        [
+            "=== SPORT_COURTS (VOLLEYBALL, FOOTBALL, ETC.)"
+
+            "=== SUBJECTS (MATAN, ETC.)"
+        ]
     ]
 ]
